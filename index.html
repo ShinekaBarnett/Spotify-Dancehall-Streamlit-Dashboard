@@ -8,7 +8,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Spotify Music Search</title>
-        <meta name="description" content="">
+        <meta name="description" content="Spotify Web API">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="main.css">
     </head>
@@ -19,6 +19,13 @@
         <header>
             <nav>  
                 <img src="" alt="Spotify Music Search">
+                <div class="login-wrapper">
+                    <form action="/action_page.php">
+                        <input type="text" placeholder="Username" name="username">
+                        <input type="text" placeholder="Password" name="psw">
+                        <button type="submit">Login</button>
+                    </form>
+                </div>
             </nav>
         </header>
         <hr>
@@ -40,6 +47,6 @@
                 </article>
             </section>
         </main>
-        <script src="data.js" async defer></script>
+        <script src="script.js"></script>
     </body>
 </html>
