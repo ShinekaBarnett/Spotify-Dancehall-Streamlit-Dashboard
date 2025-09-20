@@ -1,7 +1,7 @@
 # Spotify Dancehall Streamlit Dashboard
 
 ## Overview
-This project is a dynamic music data dashboard built using Streamlit that visualizes the global popularity of the Dancehall music genre. By incoporating data via the Spotify API, and with the use of Python, it provides a high-level overview of where the genre is most popular and which artists are driving its popularity in different regions.
+This project is a dynamic music data dashboard built using Streamlit that visualizes the global popularity of the Dancehall music genre. By incorporating data via the Spotify API, and with the use of Python, it provides a high-level overview of where the genre is most popular and which artists are driving its popularity in different regions.
 
 ## Data
 **Source:** [Spotify API](https://developer.spotify.com/documentation/web-api/tutorials/getting-started)   
